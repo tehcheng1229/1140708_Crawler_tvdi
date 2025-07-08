@@ -5,3 +5,6 @@
 
 上課網址 https://meet.google.com/rvq-smie-nnp
 https://github.com/roberthsu2003/__2025_07_08_tvdi_crawler__
+
+python basic
+python class
